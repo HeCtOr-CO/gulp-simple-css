@@ -1,0 +1,17 @@
+.homeHeaderDark {
+    font-family: arial,Sans-Serif;
+    color: #003366;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
+    cursor: default;
+}
+
+.homeHeaderWhite {
+    font-family: arial,Sans-Serif;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
+    cursor: default;
+}

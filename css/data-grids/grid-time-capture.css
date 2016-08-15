@@ -1,0 +1,54 @@
+/*Estilos Grid Time Capture*/   
+.HeaderGridCeldas {
+    font-family: Arial;
+    font-size: 7pt;
+    color: #003466;
+    text-transform: capitalize;
+    background-color: #CDEBF5;
+    text-align: center;
+    height: 19px;
+}
+
+.HeaderGridCeldasWeekend {
+    font-family: Arial;
+    font-size: 8pt;
+    color: #003466;
+    text-transform: capitalize;
+    background-color: #FFFFE1;
+    text-align: center;
+    height: 19px;
+    vertical-align: top;
+}
+
+.HeaderGridCeldasTotal {
+    font-family: Arial;
+    font-size: 8pt;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    background-color: Navy;
+    text-align: center;
+    height: 19px;
+    vertical-align: top;
+}
+
+.HeaderGridCombos {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #003466;
+    text-transform: capitalize;
+    background-color: #CDEBF5;
+    height: 19px;
+    vertical-align: top;
+}
+
+.LCell {
+    font-family: Arial;
+    font-size: 7pt;
+    color: #000000;
+    text-align: right;
+    background-color: White;
+    width: 30px;
+    border: 1px solid;
+    border-color: Gray;
+    height: 19px;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css": "node .\\node_modules\\gulp\\bin\\gulp.js css",
+    "css-min": "node .\\node_modules\\gulp\\bin\\gulp.js css-min"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-concat": "^2.6.0"
+  }
+}
